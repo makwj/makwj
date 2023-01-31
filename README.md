@@ -23,5 +23,3 @@ Currently a year 2 student from Sunway College undergoing a Diploma in Informati
 
 ### GitHub Stats: 
 [<img height="150" src="https://github-readme-stats.vercel.app/api?username=makwj&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&include_all_commits=true&theme=dracula">](https://github.com/eesuhn?tab=repositories)
-
-**makwj/makwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
